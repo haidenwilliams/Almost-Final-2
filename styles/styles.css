@@ -1,0 +1,75 @@
+ .navbar-brand {
+  background-color: black;
+  color: white;
+}
+.navbar-collapse {
+  background-color: brown;
+  color: white;
+}
+.nav-link {
+  background-color: black;
+}
+
+body{
+  background-color: black;
+}
+
+.p {
+  background-color: black;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 800px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 10;
+}
+
+
+
+table, tr, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 400px;
+  text-align: center;
+}
+
+th {
+  color: #fff;
+  background-color: brown;
+  padding: 5px;
+}
+
+td {
+  padding: 8px;
+  background-color: cyan;
+}
+
+Table {
+  float: left;
+}
+Text {
+  float: right;
+  
+}
+
+.First{
+  color: Red;
+}
+
+.Second{
+  color: Blue;
+}
+
+.Third{
+  color: brown;
+}
+
+.Normal{
+  color: violet;
+}
+
+.Header{
+  color: White;
+}
